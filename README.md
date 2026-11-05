@@ -1,4 +1,4 @@
-# Golden Gem Manager - MERN Separated
+# CSP-GOLD-LOAN
 
 This version keeps the existing Golden Gem Manager frontend and backend features while separating them into independent applications.
 
